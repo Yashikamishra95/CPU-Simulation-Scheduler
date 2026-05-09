@@ -1,16 +1,104 @@
-# React + Vite
+# Intelligent CPU Scheduler Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ProCPU is a modern CPU Scheduling Simulator built using React and Vite. The project provides an interactive environment to visualize and analyze various CPU scheduling algorithms through real-time simulations, Gantt charts, and performance analytics.
 
-Currently, two official plugins are available:
+The application is designed to help students and developers understand how operating system scheduling techniques work in practical scenarios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Interactive CPU Scheduling Simulation
+* Real-Time Gantt Chart Visualization
+* FCFS Scheduling
+* Shortest Job First (SJF)
+* Round Robin Scheduling
+* Priority Scheduling
+* Performance Statistics & Analytics
+* Modern Responsive UI
+* Fast React + Vite Development Environment
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡ React + Vite Setup
+
+This project uses React with Vite for fast development and optimized performance.
+
+### Included Features
+
+* Hot Module Replacement (HMR)
+* ESLint Configuration
+* Fast Build and Development Server
+* Modern React Architecture
+
+### Official Plugins Used
+
+* `@vitejs/plugin-react` — Uses Babel for Fast Refresh
+* `@vitejs/plugin-react-swc` — Uses SWC for faster compilation and refresh
+
+---
+
+## 🛠️ Installation
+
+### Clone Repository
+
+```bash id="vyjlwm"
+git clone https://github.com/Yashikamishra95/procpu-live.git
+```
+
+### Navigate to Project Directory
+
+```bash id="d47rzz"
+cd procpu-live
+```
+
+### Install Dependencies
+
+```bash id="1uz9w3"
+npm install
+```
+
+### Start Development Server
+
+```bash id="mxekg4"
+npm run dev
+```
+
+---
+
+## 🌐 Live Website
+
+https://procpu-live.vercel.app
+
+---
+
+## 📊 Technologies Used
+
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Chakra UI
+* Framer Motion
+* Syncfusion Components
+
+---
+
+## 🎯 Purpose of the Project
+
+The main objective of this project is to provide a visual and interactive platform for understanding CPU scheduling algorithms and comparing their performance in real-time scenarios.
+
+---
+
+## 🔮 Future Improvements
+
+* AI-Based Scheduling Prediction
+* Multi-Core CPU Simulation
+* Backend Integration
+* Advanced Process Analytics
+* User Authentication System
+
+## 👩‍💻 Developer
+
+Yashika Mishra
